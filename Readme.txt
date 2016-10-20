@@ -1,0 +1,1 @@
+This is a Readme.txt file for this Classes Repository. The oop_bank folder has a ruby doc that has a BankAccount class that allows the user to set their balance, then make deposits, transfer balances between other accounts, and set their own minimum balance.
